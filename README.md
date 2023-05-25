@@ -37,8 +37,8 @@ Ces trois script AskSysManV1.sh, AskSysManV2.sh et AskSysManV3.sh Bash génèren
     ```bash
     sudo ./nom_du_script.sh
 
-3. Une fois le script exécuté, un nouveau fichier appelé `index.html` sera généré dans le même répertoire que le script.
+3. Une fois le script exécuté, un nouveau fichier appelé `index.html` sera généré dans le même répertoire que le script. N'importe quel navigateur web doit vous permettre de visualiser le résutat.
 
 ## Note
 
-Ces scripts ont été conçu pour être utilisés sur des systèmes d'exploitation de type Linux Debian et uniquement testés sur Linux Mint et Linux Raspbian et peuvent ne pas fonctionner correctement sur d'autres systèmes d'exploitation.
+Ces scripts ont été conçu pour être utilisés sur des systèmes d'exploitation de type Linux Debian et uniquement testés sur Linux Mint et Linux Raspbian et peuvent ne pas fonctionner correctement sur d'autres systèmes d'exploitation. Modifiez à votre goût, faites vous plaisir !
