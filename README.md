@@ -29,7 +29,7 @@ Ces trois script AskSysManV1.sh, AskSysManV2.sh et AskSysManV3.sh Bash génèren
 
 ## Comment utiliser ces scripts
 
-1. Assurez-vous que le script a des permissions d'exécution. Vous pouvez le faire en utilisant la commande suivante dans votre terminal :
+1. Assurez-vous que le script a des permissions d'exécution. Ouvrez un terminal depuis le répertoire où se situe le script.sh. Entrez la commande suivante dans votre terminal :
    ```bash
    sudo chmod +x nom_du_script.sh
 
